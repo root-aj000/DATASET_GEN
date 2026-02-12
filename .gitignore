@@ -1,3 +1,5 @@
 *.pyc
 __pycache__
 01\__pycache__
+_img_checkpoints
+*.log
