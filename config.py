@@ -13,7 +13,7 @@ STREAM_PREVIEW = True
 # ============================================================
 #  API KEY
 # ============================================================
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = 
 
 # ============================================================
 #  API ENDPOINTS
