@@ -66,7 +66,8 @@ git push origin your-name
 ---
 
 
-
+## log in github https://github.com/
+Create pull request, -compare and pull 
 
 
 ---
