@@ -2,6 +2,7 @@
 ## 📋 TO DO
 
 ### Step 1: Initial Setup (One-time only)
+0. ```git clone https://github.com/root-aj000/DATASET_GEN```
 1. **Create a virtual environment**
    ```bash
    python -m venv .venv
